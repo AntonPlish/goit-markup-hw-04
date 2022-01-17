@@ -401,10 +401,6 @@ body {
   fill: var(--blue-color);
 }
 
-.button-client {
-  color: teal;
-}
-
 /* Главное поле Портфолио */
 
 .works {
