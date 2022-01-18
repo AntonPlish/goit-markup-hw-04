@@ -687,6 +687,7 @@ body {
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: var(--blue-color);
+}
 /* 
 .footer-instagram {
   margin-right: 10px;
@@ -705,9 +706,9 @@ body {
 
 .footer-linkedin {
   background-image: url(../images/linkedin-2.svg);
-} */
+}
 
-/* .footer-instagram:hover,
+.footer-instagram:hover,
 .footer-instagram:focus,
 .footer-twitter:hover,
 .footer-twitter:focus,
