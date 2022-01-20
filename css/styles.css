@@ -564,6 +564,29 @@ body {
   margin-bottom: 0;
 }
 
+/* второй вариант марджинами и формулой */
+/* .works-box {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.works-list1 {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: -15px;
+  padding: 0;
+}
+
+.works-item1 {
+  display: block;
+  width: calc(100% / 3 - 40px);
+  height: 294px;
+  outline: 1px solid #2196f3;
+  margin: 15px;
+} */
+
 .works-links {
   text-decoration: none;
   outline: none;
